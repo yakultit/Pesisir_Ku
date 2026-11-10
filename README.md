@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PesisirKu 🌊
 **Sistem Cerdas Pemetaan & Trip Planner Wisata Pesisir Manado, Bitung, dan Minahasa Utara**
 
@@ -91,3 +92,6 @@ src/
 ├── index.css                  # Tailwind CSS styling & custom leaflet design
 └── main.tsx                   # Entry point aplikasi
 ```
+=======
+# Pesisir_Ku
+>>>>>>> 49f0aaf71939eda39d9c8e3219bd6635f01d434a
